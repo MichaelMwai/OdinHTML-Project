@@ -33,6 +33,7 @@ a {
     display: flex;
     background-color: #1F2937;
     color: white;
+    align-items: flex-end;
     justify-content: center;
     justify-content: space-between;
     padding: 6% 12%;
@@ -71,6 +72,11 @@ a {
     text-align: center;
 }
 
+.div2Image {
+    display: flex;
+    
+}
+
 .div2Image img {
     width: 100%;
     
@@ -83,19 +89,35 @@ a {
 
 
 /* ........................DIV2.......................... */
+
+/* ........................DIV3.......................... */
 .div3 {
     background-color: #E4E7EB;
+    padding: 5% 16%;
+  
+}
+.quote {
+    font-style: italic;
+    font-weight: 100;
+    font-size: 36px;
+}
+
+.quoteBy {
+    font-size: 24px;
+    text-align: right;
+    font-weight: 400;
+    padding-right: 6%;
 }
 
 .div4 {
     display: flex;
+    
 }
 
+
+
 .footerBox {
-    background-color: #3B81F6;
+    
     color: white;
 }
 
-.div2Image {
-    display: flex;
-}
