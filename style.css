@@ -135,9 +135,13 @@ a {
 .signUp {
     padding: 6% 12%;
 }
-
+.footer {
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+}
 .footerBox {
     
-    color: white;
+
 }
 
