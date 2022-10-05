@@ -1,9 +1,13 @@
 .header {
     background-color: #1F2937;
+    color: white;
+    
 }
+
 
 .div1 {
     background-color: #1F2937;
+    color: white;
 }
 
 .div3 {
@@ -12,4 +16,5 @@
 
 .footerBox {
     background-color: #3B81F6;
+    color: white;
 }
