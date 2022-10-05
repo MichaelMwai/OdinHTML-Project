@@ -111,10 +111,30 @@ a {
 
 .div4 {
     display: flex;
+    background-color: white;
+   
+   
     
 }
 
+.callToAction {
+    color: white;
+    align-items: center;
+    background-color: #3B81F6;
+    display: flex;
+    margin: 6% auto;
+    justify-content: center;
+    justify-content: space-between;
+    
+   
+}
 
+.div4Text{
+    padding: 6% 12%;
+}
+.signUp {
+    padding: 6% 12%;
+}
 
 .footerBox {
     
