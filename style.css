@@ -1,4 +1,5 @@
 .header {
+    display: inline;
     background-color: #1F2937;
     color: white;
     
@@ -6,6 +7,7 @@
 
 
 .div1 {
+    display: flex;
     background-color: #1F2937;
     color: white;
 }
@@ -14,7 +16,15 @@
     background-color: #E4E7EB;
 }
 
+.div4 {
+    display: flex;
+}
+
 .footerBox {
     background-color: #3B81F6;
     color: white;
+}
+
+.div2Image {
+    display: flex;
 }
